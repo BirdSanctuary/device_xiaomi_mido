@@ -18,6 +18,8 @@ LOCAL_PATH := device/xiaomi/mido
 
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
+USE_LOCAL_GNSSPPS := true
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
