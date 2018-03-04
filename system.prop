@@ -202,4 +202,4 @@ wifi.interface=wlan0
 vendor.display.enable_default_color_mode=1
 
 # Maintainer
-ro.cardinal.maintainer=Sathish K/Rohit
+ro.cardinal.maintainer=Sathish K | Rohit
