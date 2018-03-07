@@ -426,4 +426,7 @@
     <bool name="config_proximityCheckOnWakeEnabledByDefault">true</bool>
     <integer name="config_proximityCheckTimeout">100</integer>
 
+     <!-- Doze: should the TYPE_PICK_UP_GESTURE sensor be used as a pulse signal. -->
+    <bool name="config_dozePulsePickup">true</bool>
+
 </resources>
