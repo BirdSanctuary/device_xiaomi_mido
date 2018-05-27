@@ -7,7 +7,7 @@
  {
    "repository" : "Adesh15/android_kernel_xiaomi_msm8953",
    "target_path": "kernel/xiaomi/msm8953",
-   "branch"     : "treble"
+   "branch"     : "oreo-mr1"
  },
  {
    "repository" : "LineageOS/android_packages_resources_devicesettings",
